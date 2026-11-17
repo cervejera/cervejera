@@ -4,8 +4,6 @@
 
 Trabalho com design no Sebrae PR e estudo Análise e Desenvolvimento de Sistemas na PUCPR e Design na UNINTER.
 
-Gosto de ferramentas que tiram trabalho chato do caminho: um pedido que era montado à mão e agora sai num fluxo só, um ônibus que eu não preciso mais ficar adivinhando.
-
 [LinkedIn](https://www.linkedin.com/in/gustavo-cervejera/)
 
 ### Projetos
