@@ -13,8 +13,8 @@ I like tools that take the boring work out of the way: an order that used to be 
 | | |
 | --- | --- |
 | [Pede.ai](https://github.com/cervejera/pede-ai) | Print and design orders at Sebrae PR in a few minutes. In production. |
-| [prj-piloto](https://github.com/cervejera/prj-piloto) | How long until the bus reaches my stop, starting with line F30 in Curitiba. |
-| [estudos](https://github.com/cervejera/estudos) | Coursework from PUCPR and UNINTER, with grades. |
+| [prj-piloto](https://github.com/cervejera/prj-piloto) | How long until the bus reaches my stop, starting with the line I take in Curitiba. |
+| [estudos](https://github.com/cervejera/estudos) | Coursework from PUCPR, with grades. |
 
 ### Day to day
 
