@@ -2,11 +2,7 @@
 
 ### Hi, I'm Gustavo Cervejera
 
-I'm a designer on Sebrae/PR's creative team, with a degree in Graphic Design (UNINTER), studying Systems Analysis and Development at PUCPR, plus the Google Data Analytics course.
-
-Day to day I do a bit of everything: visual identity, print pieces, presentations, e-mail marketing, dashboards, HTML motion and web design. Between pieces, I build tools that take manual work out of the way, like Pede.ai, which turned orders to contracted vendors into a few-minute flow, with the price calculated from the contract and the card already in the production pipeline.
-
-My next step is **automation and data analysis**: bringing a designer's eye together with code and data to turn processes into flows and numbers into decisions.
+Graphic designer in Curitiba, Brazil, with 6 years of experience between Sebrae/PR and agencies. Day to day I work on print, events, video and visual identity. Outside Illustrator, I build the tools my team uses, like [Pede.ai](https://github.com/cervejera/pede-ai), and Excel dashboards connected to real data. I'm studying Systems Analysis and Development at PUCPR and taking the Google Data Analytics certificate.
 
 [Portfolio](https://cervejera.github.io/en/) · [LinkedIn](https://www.linkedin.com/in/gustavo-cervejera/) · [Behance](https://www.behance.net/cervejera) · gcervejera@gmail.com
 
