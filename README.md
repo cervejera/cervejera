@@ -2,7 +2,7 @@
 
 ### Oi, eu sou o Gustavo Cervejera
 
-Designer gráfico em Curitiba, há 6 anos no mercado, entre o Sebrae/PR e agências. No dia a dia faço impressos, eventos, vídeo e identidade visual. Fora do Illustrator, construo as ferramentas que o time usa, como o [Pede.ai](https://github.com/cervejera/pede-ai), e dashboards em Excel ligados a dados reais. Curso Análise e Desenvolvimento de Sistemas na PUCPR e o certificado Google Data Analytics.
+Designer em Curitiba, há 6 anos no mercado, entre o Sebrae/PR e agências. No dia a dia faço impressos, eventos, vídeo e identidade visual. Fora do Illustrator, construo as ferramentas que o time usa, como o [Pede.ai](https://github.com/cervejera/pede-ai), e dashboards em Excel ligados a dados reais. Curso Análise e Desenvolvimento de Sistemas na PUCPR e o certificado Google Data Analytics.
 
 [Portfólio](https://cervejera.github.io) · [LinkedIn](https://www.linkedin.com/in/gustavo-cervejera/) · [Behance](https://www.behance.net/cervejera) · gcervejera@gmail.com
 
